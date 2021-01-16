@@ -7,7 +7,7 @@ export default function ImageGallery({ images, onImgClick }) {
     <ul className="ImageGallery">
       {images.map(({ id, webformatURL, tags, largeImageURL }) => (
         <ImageGalleryItem
-          key={id}
+          key={webformatURL}
           webformatURL={webformatURL}
           tags={tags}
           largeImageURL={largeImageURL}
