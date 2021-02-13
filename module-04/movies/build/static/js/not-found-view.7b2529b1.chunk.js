@@ -1,0 +1,2 @@
+(this["webpackJsonpfirst-react-app"]=this["webpackJsonpfirst-react-app"]||[]).push([[5],{44:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(7);t.default=function(){return r.a.createElement("div",null,r.a.createElement("h2",null,"Page not found!"),r.a.createElement(c.b,{to:"/"},"URL from Home page"))}}}]);
+//# sourceMappingURL=not-found-view.7b2529b1.chunk.js.map

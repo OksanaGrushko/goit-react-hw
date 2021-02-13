@@ -1,0 +1,34 @@
+{
+  "files": {
+    "cast.js": "/static/js/cast.3b77e0b4.chunk.js",
+    "cast.js.map": "/static/js/cast.3b77e0b4.chunk.js.map",
+    "home-page-view.js": "/static/js/home-page-view.f4469c95.chunk.js",
+    "home-page-view.js.map": "/static/js/home-page-view.f4469c95.chunk.js.map",
+    "main.css": "/static/css/main.acc3bd84.chunk.css",
+    "main.js": "/static/js/main.f74c9c2a.chunk.js",
+    "main.js.map": "/static/js/main.f74c9c2a.chunk.js.map",
+    "movieDetailsPage.js": "/static/js/movieDetailsPage.5410c7e4.chunk.js",
+    "movieDetailsPage.js.map": "/static/js/movieDetailsPage.5410c7e4.chunk.js.map",
+    "moviesPage.js": "/static/js/moviesPage.6da289fe.chunk.js",
+    "moviesPage.js.map": "/static/js/moviesPage.6da289fe.chunk.js.map",
+    "not-found-view.js": "/static/js/not-found-view.7b2529b1.chunk.js",
+    "not-found-view.js.map": "/static/js/not-found-view.7b2529b1.chunk.js.map",
+    "revievs.js": "/static/js/revievs.53a26e71.chunk.js",
+    "revievs.js.map": "/static/js/revievs.53a26e71.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2752688a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2752688a.js.map",
+    "static/js/8.62dedaa4.chunk.js": "/static/js/8.62dedaa4.chunk.js",
+    "static/js/8.62dedaa4.chunk.js.map": "/static/js/8.62dedaa4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.97898c7241927cdc6b5be1f10b222295.js": "/precache-manifest.97898c7241927cdc6b5be1f10b222295.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.acc3bd84.chunk.css.map": "/static/css/main.acc3bd84.chunk.css.map",
+    "static/js/8.62dedaa4.chunk.js.LICENSE.txt": "/static/js/8.62dedaa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2752688a.js",
+    "static/js/8.62dedaa4.chunk.js",
+    "static/css/main.acc3bd84.chunk.css",
+    "static/js/main.f74c9c2a.chunk.js"
+  ]
+}
