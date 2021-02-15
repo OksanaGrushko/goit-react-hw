@@ -1,0 +1,15 @@
+.Filter-fon {
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+}
+.Filter-name {
+  font-size: 15px;
+  margin-left: 25px;
+}
+.Filter-input {
+  width: 300px;
+  height: 30px;
+  margin-bottom: 10px;
+  border: solid 1px rgb(165, 165, 165);
+  margin-left: 25px;
+}

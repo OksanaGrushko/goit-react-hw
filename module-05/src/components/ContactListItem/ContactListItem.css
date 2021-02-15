@@ -1,0 +1,21 @@
+.ContactList-list {
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.ContactList-inform {
+  font-size: 25px;
+  color: rgb(36, 36, 36);
+}
+.ContactList-button {
+  width: 25px;
+  height: 25px;
+  background-color: rgb(201, 1, 1);
+  border: none;
+  color: white;
+  font-size: 25px;
+}

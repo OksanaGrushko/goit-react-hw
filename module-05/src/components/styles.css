@@ -1,0 +1,57 @@
+.Layout {
+  width: 350px;
+  margin-left: 20px;
+}
+.Title {
+  text-align: left;
+  font-size: 40px;
+  color: rgb(44, 44, 153);
+  margin-left: 25px;
+}
+.Title-animation-appear {
+  transform: translateX(-100%);
+}
+.Title-animation-appear-active {
+  transform: translateX(0);
+  transition: transform 250ms linear;
+}
+.InfoMessage {
+  position: absolute;
+  top: 14px;
+  right: -40px;
+  padding: 10px 50px;
+  font-size: 15px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #d81709;
+}
+
+.InfoMessage-exist-enter {
+  transform: translateX(100%);
+}
+.InfoMessage-exist-enter-active {
+  transform: translateX(0);
+  transition: transform 250ms linear;
+}
+.InfoMessage-exist-exit {
+  transform: translateX(0);
+}
+.InfoMessage-exist-exit-active {
+  transform: translateX(100%);
+  transition: transform 250ms linear;
+}
+
+.Filter-enter {
+  transform: scale(0.1);
+}
+.Filter-enter-active {
+  transform: scale(1);
+  transition: all 250ms linear;
+}
+.Filter-exit {
+  transform: scale(1);
+}
+.Filter-exit-active {
+  transform: scale(0.1);
+  transition: all 250ms linear;
+}
